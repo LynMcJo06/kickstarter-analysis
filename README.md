@@ -11,4 +11,5 @@ Initially, I added five new data columns
 ---
 I created a pivot table that compaired outcomes via the parent category. I added country as a filter
 I created two charts:  one that included all countries; another that displayed the outcomes for the United States only.
+The charts show that US outcomes are similar to all countries outcomes.  
 
