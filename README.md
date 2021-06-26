@@ -26,5 +26,8 @@ Graphed this data and made the following observations:
 * The most successful theater campaigns launched in May.  
 * Theater campaigns that launched in May, July, and October had the highest failure.  
 * Like the all parent campaigns data, canceled campaigns was somewhat linear.  
-
-
+---
+My client was inspired by five plays she saw at the Edinburgh Festival Fringe and wanted information as to how they were funded.  
+Created a separate sheet titled "Edinburgh Research."  
+* All five were successful
+* The average goal was around $2000.00, average pledge amount was $2300.00, average donation was $40 from an average of 62 backers.  
