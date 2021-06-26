@@ -36,4 +36,5 @@ To aid my client, I filtered the Kickstarter data, creating two separate workshe
 * Successful US Kickstarters
 * Failed US kickstarters
 From these spreadsheets, I ran a statistical analysis finding mean, median, standard devision, upper and lower quartile, and IQR.  
-
+---
+Louise mentioned that she hopes to produce a musical in Great Britain
