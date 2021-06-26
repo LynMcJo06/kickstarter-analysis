@@ -31,3 +31,9 @@ My client was inspired by five plays she saw at the Edinburgh Festival Fringe an
 Created a separate sheet titled "Edinburgh Research."  
 * All five were successful
 * The average goal was around $2000.00, average pledge amount was $2300.00, average donation was $40 from an average of 62 backers.  
+---
+To aid my client, I filtered the Kickstarter data, creating two separate worksheets
+* Successful US Kickstarters
+* Failed US kickstarters
+From these spreadsheets, I ran a statistical analysis finding mean, median, standard devision, upper and lower quartile, and IQR.  
+
