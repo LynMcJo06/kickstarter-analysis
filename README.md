@@ -37,5 +37,5 @@ To aid my client, I filtered the Kickstarter data, creating two separate workshe
 * Failed US kickstarters
 From these spreadsheets, I ran a statistical analysis finding mean, median, standard devision, upper and lower quartile, and IQR.  
 ---
-Louise mentioned that she hopes to produce a musical in Great Britain.  I filtered the data by Great Britain, and musicals.  Then I selected pledged and goal categories for the box plot.  
+Louise mentioned that she hopes to produce a musical in Great Britain.  I filtered the data by Great Britain and musicals.  I then selected pledged and goal categories for the box plot.  
 ---
