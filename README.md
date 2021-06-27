@@ -41,14 +41,27 @@ Louise mentioned that she hopes to produce a musical in Great Britain.  I filter
 ---
 I began working on the challenge.  
 ---
- Crowdfunding Analysis for Kickstarting FEVER
+ # Crowdfunding Analysis for Kickstarting FEVER
 
 ## Overview and Purpose
       I met with Louise on June 10, 2021 to discuss her situation.  Louise is a playwriter, fairly new to the industry.  She is interested in starting a crowdfunding campaign to fund a play she wrote titled FEVER.  Her estimated budget is in excess of $10,000.  Louise would like to hire my company to analyze data on crowdfunding campaigns.  I advised her that our company already had an extensive database of crowdfunding information.  We would be able to provide her with a myriad of information in the form of tables, charts and recommendations.  We would present this information in easy to understand form thereby allowing her to deveop a strategy to achieve success.  
 
 ## Analysis and Challenges
-
-
+I created a pivot table that compaired outcomes via the parent category. I added country as a filter
+I created two charts:  one that included all countries; another that displayed the outcomes for the United States only.
+The charts show that US outcomes are similar to all countries outcomes.  
+I created a separate pivot table that compaired outcomes to subcategory with country and parent category as filters.  
+I did not gain any additional insights with this information. 
+Created a new pivot table comparing outcomes to launch date with parent category as a filter. 
+Graphed the data and observed the following:  
+* Campaigns launched in May saw the greatest success.
+* Campaigns launched in January, June, July, and October had similar failure numbers.  
+* The line depticting canceled campaigns was close to linear or flat.  
+I then filtered the pivot table by the parent category of Theater. 
+Graphed this data and made the following observations:
+* The most successful theater campaigns launched in May.  
+* Theater campaigns that launched in May, July, and October had the highest failure.  
+* Like the all parent campaigns data, canceled campaigns was somewhat linear.  
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
@@ -72,4 +85,7 @@ I began working on the challenge.
       * the study did not include social demographics;   
 
 - What are some other possible tables and/or graphs that we could create?
+  * a table and graph looking at campaign duration versus outcomes
+  * a graph of pledged amount versus outcomes
+  * data with social demographic information
 
