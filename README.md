@@ -51,6 +51,8 @@ I began working on the challenge.
    Initially, we created a table to compare outcomes to the parent category and added a filter for country.  Out team created two charts:  one for all countries and another for the United States only.  The charts were very similar and showed that US outcomes match outcomes for all countries.  Theater is the largest campaign category with the most successful and failed campaigns.  
    We then created a separate table that compaired outcomes to subcategory with country and parent category as filters.  We filtered the data by subcategoy for plays, United States, and all countries.  Again, both the United States and all countries charts showed similar results.  Plays is the largest subcategory with the most successful and failed plays.  
 eated a new pivot table comparing outcomes to launch date with parent category as a filter. 
+!https://github.com/LynMcJo06/Kickstarter-analysis/main/OutbyLaunchDt.png
+
 
 ### Analysis of Outcomes Based on Launch Date
 The graphed data showed the following:  
